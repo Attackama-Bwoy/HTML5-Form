@@ -1,0 +1,72 @@
+.card {
+    position: relative;
+    padding: 0px;
+    border-style: solid;
+    border-color: rgb(185, 178, 178);
+    border-radius: 10px;
+    margin: 60px;
+    width: auto;
+}
+
+#send {
+  align-items: flex-end;
+  float: inline-end;
+}
+
+
+.col-12 {
+    font-size: xx-large;
+}
+
+.pago{
+  background-color: grey;
+  width: 16vw;
+  position: relative;
+  padding: 5px;
+  border-radius: 8px;
+}
+i {
+  color: aliceblue;
+}
+
+.form-inline .form-control {
+  width: auto;
+  display: inline-block;
+}
+.form-inline label {
+  margin-right: 5px;
+}
+.form-inline .form-group {
+  display: inline-block;
+  margin-bottom: 0;
+  vertical-align: middle;
+}
+.form-inline {
+    width: 100%;
+}
+
+#message {
+  border-color: grey;
+  width: 100%;
+  position: relative;
+}
+p {
+  color: rgb(163, 157, 157);
+  font-size: small;
+}
+i {
+  color: aliceblue;
+}
+
+#botones {
+  text-align: end;
+}
+
+.row {
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+
+label {
+  padding-bottom: 5px;
+}
